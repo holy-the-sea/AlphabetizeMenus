@@ -1,0 +1,9 @@
+{
+  "Name": "Alphabetize Menus",
+  "Author": "holythesea",
+  "Version": "1.0.0",
+  "Description": "Alphabetize cooking and crafting menus",
+  "UniqueID": "holythesea.AlphabetizeMenu",
+  "EntryDll": "AlphabetizeMenus.dll",
+  "MinimumApiVersion": "3.14.0"
+}
